@@ -3,6 +3,7 @@ import 'package:data_diri/ui/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+
 void main() {
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     systemNavigationBarColor: LightColors.bakground, // navigation bar color

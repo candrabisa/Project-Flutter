@@ -12,5 +12,5 @@ class LightColors {
   static const Color kGreen = Color(0xFF309397);
 
   static const Color abuabu = Color(0xFF0D253F);
-  static const Color kivy = Color(0xFF0D253F);
+  static const Color kivy = Colors.purple;
 }

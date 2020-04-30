@@ -3,9 +3,7 @@ import 'package:data_diri/widget/container_atas.dart';
 import 'package:data_diri/widget/skill.dart';
 import 'package:data_diri/widget/task_column.dart';
 import 'package:flutter/material.dart';
-
 import 'package:percent_indicator/percent_indicator.dart';
-
 import 'color/color.dart';
 
 class HomePage extends StatelessWidget {
