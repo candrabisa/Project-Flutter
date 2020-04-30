@@ -57,7 +57,7 @@ class HomePage extends StatelessWidget {
                             radius: 90.0,
                             lineWidth: 5.0,
                             animation: true,
-                            percent: 0.0,
+                            percent: 0.30,
                             circularStrokeCap: CircularStrokeCap.round,
                             progressColor: LightColors.kRed,
                             backgroundColor: LightColors.kDarkYellow,
